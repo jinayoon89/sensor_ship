@@ -6,7 +6,6 @@ body {
 li {
 	padding-top: 10px;
 	padding-bottom: 10px;
-	
 }
 
 a {
@@ -41,7 +40,6 @@ footer {
 	
 }
 
-.row {
-	margin-right: 0px;
-	margin-left: 0px;
+.col-md-6 {
+	width: 100%;
 }
